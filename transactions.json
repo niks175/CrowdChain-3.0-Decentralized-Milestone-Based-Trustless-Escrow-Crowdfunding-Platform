@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "from": "0xUserA",
+    "to": "0xCampaign1",
+    "amount": 2.5,
+    "currency": "ETH",
+    "type": "deposit",
+    "status": "completed",
+    "createdAt": "2026-04-07T09:29:57.672Z"
+  },
+  {
+    "id": 2,
+    "from": "0xUserB",
+    "to": "0xCampaign2",
+    "amount": 1.2,
+    "currency": "ETH",
+    "type": "deposit",
+    "status": "completed",
+    "createdAt": "2026-04-07T09:29:57.672Z"
+  },
+  {
+    "id": 3,
+    "from": "0xUserC",
+    "to": "0xCampaign3",
+    "amount": 0.75,
+    "currency": "ETH",
+    "type": "deposit",
+    "status": "completed",
+    "createdAt": "2026-04-07T09:35:59.730Z"
+  }
+]

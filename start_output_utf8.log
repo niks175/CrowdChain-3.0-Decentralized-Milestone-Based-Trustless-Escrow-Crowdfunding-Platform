@@ -1,0 +1,94 @@
+﻿
+> crowd-funding-dapp@0.1.0 start
+> next start
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from C:\Users\AMOLI DHURI\OneDrive\Desktop\Advance Crowd Funding\.env.local
+npm : warn  - You have 
+enabled experimental 
+feature (serverComponen
+tsExternalPackages) in 
+next.config.js.
+At line:1 char:1
++ npm start > 
+start_output.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (warn  - You h   
+ av...next.config.j    
+s.:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+warn  - Experimental 
+features are not 
+covered by semver, and 
+may cause unexpected 
+or broken application 
+behavior. Use at your 
+own risk.
+
+Error: Could not find 
+a production build in 
+the 'C:\Users\AMOLI DHU
+RI\OneDrive\Desktop\Adv
+ance Crowd 
+Funding\.next' 
+directory. Try 
+building your app with 
+'next build' before 
+starting the 
+production server. http
+s://nextjs.org/docs/mes
+sages/production-start-
+no-build-id
+    at NextNodeServer.g
+etBuildId 
+(C:\Users\AMOLI DHURI\O
+neDrive\Desktop\Advance
+ Crowd Funding\node_mod
+ules\next\dist\server\n
+ext-server.js:198:23)
+    at new Server 
+(C:\Users\AMOLI DHURI\O
+neDrive\Desktop\Advance
+ Crowd Funding\node_mod
+ules\next\dist\server\b
+ase-server.js:68:29)
+    at new 
+NextNodeServer 
+(C:\Users\AMOLI DHURI\O
+neDrive\Desktop\Advance
+ Crowd Funding\node_mod
+ules\next\dist\server\n
+ext-server.js:70:9)
+    at NextServer.creat
+eServer 
+(C:\Users\AMOLI DHURI\O
+neDrive\Desktop\Advance
+ Crowd Funding\node_mod
+ules\next\dist\server\n
+ext.js:147:16)
+    at async 
+C:\Users\AMOLI DHURI\On
+eDrive\Desktop\Advance 
+Crowd Funding\node_modu
+les\next\dist\server\ne
+xt.js:159:31
+    at async 
+NextServer.prepare 
+(C:\Users\AMOLI DHURI\O
+neDrive\Desktop\Advance
+ Crowd Funding\node_mod
+ules\next\dist\server\n
+ext.js:134:24)
+    at async 
+C:\Users\AMOLI DHURI\On
+eDrive\Desktop\Advance 
+Crowd Funding\node_modu
+les\next\dist\cli\next-
+start.js:118:9
